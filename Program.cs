@@ -6,7 +6,7 @@ namespace helloworld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! This is a new feature file");
+            Console.WriteLine("Hello World! This is a new feature file, i modified this.");
         }
     }
 }
